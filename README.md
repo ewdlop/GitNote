@@ -86,4 +86,15 @@ The limitations for file names in Git are mostly inherited from the underlying f
     - Keep file names and paths within reasonable limits to avoid issues with maximum path lengths.
 
 By adhering to these guidelines, you can ensure better compatibility and avoid potential issues with file names in Git.
+
 Replace `your-username` and `your-personal-access-token` with your actual GitHub username and personal access token, and `target-username` with the GitHub username whose repositories you want to star.
+
+## 
+
+```git
+git update-index --assume-unchanged path/to/file
+```
+
+```git
+git rm -r --cached path/to/file
+```
