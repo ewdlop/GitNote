@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitNoteConsoleApp1", "GitNoteConsoleApp1.csproj", "{FC337B92-4CA8-4EAB-8296-62FEF942CEFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC337B92-4CA8-4EAB-8296-62FEF942CEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC337B92-4CA8-4EAB-8296-62FEF942CEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC337B92-4CA8-4EAB-8296-62FEF942CEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC337B92-4CA8-4EAB-8296-62FEF942CEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A36CF23C-CC9B-4F6D-BBC2-9BC974D45E2C}
+	EndGlobalSection
+EndGlobal
